@@ -4,3 +4,4 @@ Conference.pdf is the submitted paper.
 Experience_certificate is also attached.
 
 Paper_selected.png shows the mail our team got which is selected in this conference mentiond or for which we submitted
+Acceptance decision.png showing the recently updated acceptance proof.
